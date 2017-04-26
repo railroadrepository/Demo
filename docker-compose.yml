@@ -7,3 +7,4 @@ mysql:
     - MYSQL_DATABASE=test
   volumes:
     - "./conf.d:/etc/mysql/conf.d:ro"
+ #B-01048
