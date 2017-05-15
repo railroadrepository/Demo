@@ -1,1 +1,2 @@
 This file is for creating a new roster.
+Updating the file for adding the display funtionality for the new roster.
